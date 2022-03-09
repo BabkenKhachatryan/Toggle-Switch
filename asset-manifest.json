@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Toggle-Switch/static/css/main.c339eeeb.chunk.css",
+    "main.js": "/Toggle-Switch/static/js/main.363ac262.chunk.js",
+    "main.js.map": "/Toggle-Switch/static/js/main.363ac262.chunk.js.map",
+    "runtime-main.js": "/Toggle-Switch/static/js/runtime-main.ad8f91f3.js",
+    "runtime-main.js.map": "/Toggle-Switch/static/js/runtime-main.ad8f91f3.js.map",
+    "static/js/2.936a3ecf.chunk.js": "/Toggle-Switch/static/js/2.936a3ecf.chunk.js",
+    "static/js/2.936a3ecf.chunk.js.map": "/Toggle-Switch/static/js/2.936a3ecf.chunk.js.map",
+    "static/js/3.42be4f00.chunk.js": "/Toggle-Switch/static/js/3.42be4f00.chunk.js",
+    "static/js/3.42be4f00.chunk.js.map": "/Toggle-Switch/static/js/3.42be4f00.chunk.js.map",
+    "index.html": "/Toggle-Switch/index.html",
+    "static/css/main.c339eeeb.chunk.css.map": "/Toggle-Switch/static/css/main.c339eeeb.chunk.css.map",
+    "static/js/2.936a3ecf.chunk.js.LICENSE.txt": "/Toggle-Switch/static/js/2.936a3ecf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad8f91f3.js",
+    "static/js/2.936a3ecf.chunk.js",
+    "static/css/main.c339eeeb.chunk.css",
+    "static/js/main.363ac262.chunk.js"
+  ]
+}
